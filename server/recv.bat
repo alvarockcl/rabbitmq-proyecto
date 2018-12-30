@@ -1,0 +1,1 @@
+java -cp target/server-1.jar;libs/amqp-client-5.5.1.jar;libs/slf4j-api-1.7.25.jar;libs/slf4j-log4j12-1.7.5.jar;libs/log4j-1.2.17.jar cl.fuentes.rabbitmq.test.Recv

@@ -1,0 +1,1 @@
+java -cp target/server-1.jar cl.fuentes.rabbitmq.test.App

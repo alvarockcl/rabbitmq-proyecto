@@ -1,0 +1,8 @@
+Tutoriales Java
+https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/java
+
+https://github.com/rabbitmq/rabbitmq-tutorials/blob/master/java/Send.java
+https://github.com/rabbitmq/rabbitmq-tutorials/blob/master/java/Recv.java
+
+
+http://www.rabbitmq.com/tutorials/tutorial-one-java.html
