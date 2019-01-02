@@ -1,1 +1,0 @@
-java -cp target/server-1.jar;libs/* cl.fuentes.rabbitmq.test.Send
