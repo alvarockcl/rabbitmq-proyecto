@@ -20,3 +20,8 @@ http://localhost:15672/
 
 Puerto rabbitmq por defecto
 5672
+
+Copiar dependencias
+
+https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html
+mvn install dependency:copy-dependencies 
