@@ -1,4 +1,4 @@
-package cl.fuentes.rabbitmq.ejemplos;
+package cl.fuentes.rabbitmq.test;
 
 import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;
