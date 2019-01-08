@@ -25,3 +25,7 @@ Copiar dependencias
 
 https://maven.apache.org/plugins/maven-dependency-plugin/examples/copying-project-dependencies.html
 mvn install dependency:copy-dependencies 
+
+
+Arquitectura Event-Driven Architecture
+https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/event-driven
