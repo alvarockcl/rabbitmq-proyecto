@@ -29,3 +29,6 @@ mvn install dependency:copy-dependencies
 
 Arquitectura Event-Driven Architecture
 https://docs.microsoft.com/es-es/azure/architecture/guide/architecture-styles/event-driven
+
+Spring Boot con Eureka Server
+https://www.tutorialspoint.com/spring_boot/spring_boot_eureka_server.htm
