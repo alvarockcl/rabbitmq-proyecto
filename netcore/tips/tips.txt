@@ -3,8 +3,16 @@ Crear proyecto net core
 dotnet new console -o productor
 dotnet new console -o consumidor
 
-
+Nuget
+-------------------------------------------------
 dotnet add package RabbitMQ.Client --version 5.1.0
 dotnet add package Newtonsoft.Json --version 12.0.1
+
+
+Iniciar el servidor
+-------------------------------------------------
+rabbitmq-server.bat restart
+
+http://localhost:15672/
 
 
