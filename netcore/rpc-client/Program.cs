@@ -9,10 +9,10 @@ namespace rpc_client
         public static void Main(string[] args)
         {
             var rpcClient = new RpcClient();
-            Console.WriteLine(" [x] Requesting fib(30)");
+            Console.WriteLine(" [x] Solicitando fib(30)");
             var response = rpcClient.Call("30");
 
-            Console.WriteLine(" [.] Got '{0}'", response);
+            Console.WriteLine(" [.] tiene '{0}'", response);
             rpcClient.Close();
         }
     }

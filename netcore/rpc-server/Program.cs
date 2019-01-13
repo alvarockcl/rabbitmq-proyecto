@@ -55,6 +55,7 @@ namespace rpc_server
 
         private static int fib(int n)
         {
+            
             if (n == 0 || n == 1)
             {
                 return n;
@@ -62,5 +63,11 @@ namespace rpc_server
 
             return fib(n - 1) + fib(n - 2);
         }
+
+        private static int suma(int a, int b)
+        {
+            return a + b;
+        }        
+
     } 
 }
